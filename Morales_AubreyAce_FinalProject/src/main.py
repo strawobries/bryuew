@@ -1,3 +1,11 @@
+"""
+Study Time Application
+
+A Python program for managing study sessions.
+Features include add, view, search, update,
+delete, sort, count, save, and load sessions.
+"""
+
 import json
 import os
 
