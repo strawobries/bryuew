@@ -7,7 +7,6 @@ The application provides a menu-driven interface that makes it easy for users to
 
 To improve usability, the program supports saving and loading data using JSON file handling, allowing users to keep their records even after closing the application. By combining object-oriented programming concepts, file handling, searching, sorting, and data management, Study Time serves as a practical and user-friendly tool for academic organization and productivity.
 
-
 ## Features
 - Add Session
 - View Sessions
